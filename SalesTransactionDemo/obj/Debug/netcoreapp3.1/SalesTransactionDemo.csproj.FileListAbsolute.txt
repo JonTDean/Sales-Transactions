@@ -1,0 +1,13 @@
+C:\Users\Jon\source\repos\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\netcoreapp3.1\SalesTransactionDemo.exe
+C:\Users\Jon\source\repos\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\netcoreapp3.1\SalesTransactionDemo.deps.json
+C:\Users\Jon\source\repos\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\netcoreapp3.1\SalesTransactionDemo.runtimeconfig.json
+C:\Users\Jon\source\repos\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\netcoreapp3.1\SalesTransactionDemo.runtimeconfig.dev.json
+C:\Users\Jon\source\repos\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\netcoreapp3.1\SalesTransactionDemo.dll
+C:\Users\Jon\source\repos\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\netcoreapp3.1\SalesTransactionDemo.pdb
+C:\Users\Jon\source\repos\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\netcoreapp3.1\SalesTransactionDemo.csprojAssemblyReference.cache
+C:\Users\Jon\source\repos\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\netcoreapp3.1\SalesTransactionDemo.AssemblyInfoInputs.cache
+C:\Users\Jon\source\repos\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\netcoreapp3.1\SalesTransactionDemo.AssemblyInfo.cs
+C:\Users\Jon\source\repos\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\netcoreapp3.1\SalesTransactionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jon\source\repos\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\netcoreapp3.1\SalesTransactionDemo.dll
+C:\Users\Jon\source\repos\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\netcoreapp3.1\SalesTransactionDemo.pdb
+C:\Users\Jon\source\repos\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\netcoreapp3.1\SalesTransactionDemo.genruntimeconfig.cache
